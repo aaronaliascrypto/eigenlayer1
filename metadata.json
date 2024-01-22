@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "Eigen node",
+  "website": "eigenlayer.xyz",
+  "description": "Eigenlayer node",
+  "logo": "https://pbs.twimg.com/profile_images/1602602873560436738/m4BZg2jQ_400x400.jpg",
+  "twitter": "https://twitter.com/cryptaar0n"
 }
